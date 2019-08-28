@@ -1,5 +1,5 @@
 A Personal Portfolio Webpage [freeCodeCamp [Basic Projects]] (Challenge)
-Objective: Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/VemmoX/.
+Objective: Build a CodePen.io app that is functionally similar to this: http://petrosmelake.ga/.
 
 Rule #1: Don't look at the example project's code. Figure it out for yourself.
 
